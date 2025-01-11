@@ -66,7 +66,6 @@ const brayan = {
 
 <p>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=for-the-badge">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge">
     <img alt="SQL Server" src ="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge">
 </p>
