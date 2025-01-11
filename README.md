@@ -1,33 +1,59 @@
-# ¡Hola! 👋 
+# ¡Hola, soy Brayan Estevez! 👋
 
-![Banner](https://img.shields.io/badge/Bienvenidos-a%20mi%20perfil-blue?style=for-the-badge)
+![Banner](https://img.shields.io/badge/Desarrollador-Full%20Stack-blue?style=for-the-badge)
 
-## Sobre mí
-🚀 Soy un desarrollador apasionado por la tecnología y la innovación
-🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades
-💡 Busco colaborar en proyectos interesantes y desafiantes
+## Sobre mí 💫
+- 🔭 Desarrollador Full Stack con experiencia en múltiples tecnologías
+- 🌱 Experiencia en desarrollo web y aplicaciones de escritorio
+- 💻 Manejo diversos lenguajes de programación y tecnologías
+- 🚀 Siempre en busca de nuevos desafíos tecnológicos
 
-## Tecnologías y Herramientas
+## Tecnologías y Herramientas 🛠️
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-## Mis Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+## Proyectos Destacados 🌟
 
-## Proyectos Destacados
-### 🌟 [Nombre del Proyecto 1](link-al-proyecto)
-Breve descripción del proyecto y sus tecnologías principales
+### 🎮 Proyectos de Juegos
+- [MOBWare](https://github.com/BrayanEstevezC/MOBWare) - Desarrollo con JavaScript
+- [Juego de Batalla Naval](https://github.com/BrayanEstevezC/Juego-de-Batalla-Naval) - Implementado en HTML
+- [Juego de Carros](https://github.com/BrayanEstevezC/Juego-de-carros) - Desarrollado con CSS
 
-### 🚀 [Nombre del Proyecto 2](link-al-proyecto)
-Breve descripción del proyecto y sus tecnologías principales
+### 💼 Proyectos Empresariales
+- [ERP-AGC](https://github.com/BrayanEstevezC/ERP-AGC) - Sistema ERP en C#
+- [Payrol](https://github.com/BrayanEstevezC/Payrol) - Sistema de nómina en C#
+- [YomaContable](https://github.com/BrayanEstevezC/YomaContable-) - Aplicación contable con CSS
 
-## Contacto
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](tu-perfil-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](tu-perfil-twitter)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email)
+### 🌐 Proyectos Web
+- [Portfolio](https://github.com/BrayanEstevezC/Portfolio) - Portafolio personal en HTML
+- [Reforma27](https://github.com/BrayanEstevezC/Reforma27) - Proyecto en C#
+- [StarWars](https://github.com/BrayanEstevezC/StarWars) - Sitio web temático en HTML
+
+### 🔧 Proyectos Técnicos
+- [Engine](https://github.com/BrayanEstevezC/Engine) - Desarrollo en PHP
+- [Arduino-Practice](https://github.com/BrayanEstevezC/Arduino-Practice) - Prácticas con C++
+- [seguridaInformatica](https://github.com/BrayanEstevezC/seguridaInformatica) - Proyecto de seguridad en HTML
+
+### 📚 Proyectos Educativos
+- [Curso-CSS](https://github.com/BrayanEstevezC/Curso-CSS) - Material de aprendizaje de CSS
+- [Multimedia](https://github.com/BrayanEstevezC/Multimedia) - Proyecto multimedia en C#
+
+## Estadísticas de GitHub 📊
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BrayanEstevezC&show_icons=true&theme=tokyonight)
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanEstevezC&layout=compact&theme=tokyonight)
+
+## Contacto 📫
+¿Interesado en colaborar? ¡Contáctame!
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BrayanEstevezC)
 
 ---
+### 👨‍💻 Desarrollador Full Stack | Creador de Soluciones Tecnológicas
+
 ⭐️ ¡No olvides darle una estrella a los repositorios que te gusten!
