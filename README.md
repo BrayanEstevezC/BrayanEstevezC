@@ -26,16 +26,16 @@ const brayan = {
     code: ["JavaScript", "C#", "PHP", "C++", "HTML", "CSS"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue"],
-            css: ["Bootstrap", "Tailwind", "Material UI"]
+            js: ["Angular"],
+            css: ["Bootstrap"]
         },
         backEnd: {
             dotnet: [".NET Core", "Entity Framework"],
             php: ["Laravel"],
-            js: ["Node", "Express"]
+            js: ["Node"]
         },
-        databases: ["MySQL", "SQL Server", "MongoDB"],
-        tools: ["Git", "Docker", "VS Code", "Postman"]
+        databases: ["MySQL", "SQL Server"],
+        tools: ["Git", "VS Code", "Postman"]
     },
     currentFocus: "Full Stack Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
@@ -108,10 +108,6 @@ const brayan = {
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-### 🎵 Now Playing
-
-[![Spotify](https://novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER)
 
 ## 🤝 Connect with Me
 
