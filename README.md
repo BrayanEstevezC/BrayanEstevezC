@@ -56,7 +56,6 @@ const brayan = {
 ### 🧰 Frameworks and Libraries
 
 <p>
-   
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=.net&logoColor=white&style=for-the-badge">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white&style=for-the-badge">
