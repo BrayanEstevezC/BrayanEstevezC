@@ -1,59 +1,86 @@
-# ¡Hola, soy Brayan Estevez! 👋
+# Brayan Estevez | Desarrollador Full Stack 👨‍💻
 
-![Banner](https://img.shields.io/badge/Desarrollador-Full%20Stack-blue?style=for-the-badge)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Creador+de+soluciones+innovadoras)](https://git.io/typing-svg)
 
-## Sobre mí 💫
-- 🔭 Desarrollador Full Stack con experiencia en múltiples tecnologías
-- 🌱 Experiencia en desarrollo web y aplicaciones de escritorio
-- 💻 Manejo diversos lenguajes de programación y tecnologías
-- 🚀 Siempre en busca de nuevos desafíos tecnológicos
+</div>
 
-## Tecnologías y Herramientas 🛠️
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+## ¿Quién soy? 🚀
+
+¡Hola! Soy un desarrollador Full Stack apasionado por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo web y aplicaciones de escritorio, siempre buscando nuevos desafíos que me permitan crecer profesionalmente.
+
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/BrayanEstevezC?style=social)](https://github.com/BrayanEstevezC)
+[![Portfolio](https://img.shields.io/badge/Portfolio-BrayanEstevez-blue)](https://github.com/BrayanEstevezC/Portfolio)
+
+</div>
+
+## Habilidades Técnicas 💻
+
+<div align="center">
+
+### Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Desarrollo Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Herramientas y Tecnologías
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
 
 ## Proyectos Destacados 🌟
 
-### 🎮 Proyectos de Juegos
-- [MOBWare](https://github.com/BrayanEstevezC/MOBWare) - Desarrollo con JavaScript
-- [Juego de Batalla Naval](https://github.com/BrayanEstevezC/Juego-de-Batalla-Naval) - Implementado en HTML
-- [Juego de Carros](https://github.com/BrayanEstevezC/Juego-de-carros) - Desarrollado con CSS
+<div align="center">
 
-### 💼 Proyectos Empresariales
-- [ERP-AGC](https://github.com/BrayanEstevezC/ERP-AGC) - Sistema ERP en C#
-- [Payrol](https://github.com/BrayanEstevezC/Payrol) - Sistema de nómina en C#
-- [YomaContable](https://github.com/BrayanEstevezC/YomaContable-) - Aplicación contable con CSS
+### 🎮 Gaming
+[![MOBWare](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=MOBWare&theme=dark)](https://github.com/BrayanEstevezC/MOBWare)
+[![Batalla Naval](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=Juego-de-Batalla-Naval&theme=dark)](https://github.com/BrayanEstevezC/Juego-de-Batalla-Naval)
 
-### 🌐 Proyectos Web
-- [Portfolio](https://github.com/BrayanEstevezC/Portfolio) - Portafolio personal en HTML
-- [Reforma27](https://github.com/BrayanEstevezC/Reforma27) - Proyecto en C#
-- [StarWars](https://github.com/BrayanEstevezC/StarWars) - Sitio web temático en HTML
+### 💼 Empresariales
+[![ERP-AGC](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=ERP-AGC&theme=dark)](https://github.com/BrayanEstevezC/ERP-AGC)
+[![YomaContable](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=YomaContable-&theme=dark)](https://github.com/BrayanEstevezC/YomaContable-)
 
-### 🔧 Proyectos Técnicos
-- [Engine](https://github.com/BrayanEstevezC/Engine) - Desarrollo en PHP
-- [Arduino-Practice](https://github.com/BrayanEstevezC/Arduino-Practice) - Prácticas con C++
-- [seguridaInformatica](https://github.com/BrayanEstevezC/seguridaInformatica) - Proyecto de seguridad en HTML
+</div>
 
-### 📚 Proyectos Educativos
-- [Curso-CSS](https://github.com/BrayanEstevezC/Curso-CSS) - Material de aprendizaje de CSS
-- [Multimedia](https://github.com/BrayanEstevezC/Multimedia) - Proyecto multimedia en C#
+## Estadísticas 📊
 
-## Estadísticas de GitHub 📊
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrayanEstevezC&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/BrayanEstevezC)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BrayanEstevezC&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=BrayanEstevezC&theme=tokyonight&hide_border=true)](https://github.com/BrayanEstevezC)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanEstevezC&layout=compact&theme=tokyonight)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanEstevezC&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/BrayanEstevezC)
+
+</div>
 
 ## Contacto 📫
-¿Interesado en colaborar? ¡Contáctame!
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BrayanEstevezC)
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrayanEstevezC)
+
+</div>
 
 ---
-### 👨‍💻 Desarrollador Full Stack | Creador de Soluciones Tecnológicas
 
-⭐️ ¡No olvides darle una estrella a los repositorios que te gusten!
+<div align="center">
+
+### 🌟 ¡No olvides dejar una estrella en los repositorios que te gusten! 🌟
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BrayanEstevezC.BrayanEstevezC)
+
+</div>
