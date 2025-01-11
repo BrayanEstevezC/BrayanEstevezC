@@ -1,77 +1,126 @@
-# Brayan Estevez | Desarrollador Full Stack 👨‍💻
+# Welcome to Brayan Estevez's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Creador+de+soluciones+innovadoras)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9DFF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Passionate+about+technology;Building+innovative+solutions)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://github.com/BrayanEstevezC?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BrayanEstevezC?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/BrayanEstevezC?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BrayanEstevezC?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/BrayanEstevezC/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrayanEstevezC&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## ¿Quién soy? 🚀
+## 👨‍💻 About Me
 
-¡Hola! Soy un desarrollador Full Stack apasionado por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo web y aplicaciones de escritorio, siempre buscando nuevos desafíos que me permitan crecer profesionalmente.
+```javascript
+const brayan = {
+    code: ["JavaScript", "C#", "PHP", "C++", "HTML", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue"],
+            css: ["Bootstrap", "Tailwind", "Material UI"]
+        },
+        backEnd: {
+            dotnet: [".NET Core", "Entity Framework"],
+            php: ["Laravel"],
+            js: ["Node", "Express"]
+        },
+        databases: ["MySQL", "SQL Server", "MongoDB"],
+        tools: ["Git", "Docker", "VS Code", "Postman"]
+    },
+    currentFocus: "Full Stack Development",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=for-the-badge">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge">
+    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white&style=for-the-badge">
+</p>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge">
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=.net&logoColor=white&style=for-the-badge">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white&style=for-the-badge">
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=for-the-badge">
+    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge">
+    <img alt="SQL Server" src ="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge">
+</p>
+
+## 📊 Github Stats and Activity
+
+### 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrayanEstevezC&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### 💻 GitHub Profile Stats
+
+[![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanEstevezC&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanEstevezC&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📈 Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrayanEstevezC&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🎮 Gaming Projects
+[![MOBWare](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=MOBWare&theme=dracula&hide_border=true)](https://github.com/BrayanEstevezC/MOBWare)
+[![Batalla Naval](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=Juego-de-Batalla-Naval&theme=dracula&hide_border=true)](https://github.com/BrayanEstevezC/Juego-de-Batalla-Naval)
+
+### 💼 Business Applications
+[![ERP-AGC](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=ERP-AGC&theme=dracula&hide_border=true)](https://github.com/BrayanEstevezC/ERP-AGC)
+[![YomaContable](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=YomaContable-&theme=dracula&hide_border=true)](https://github.com/BrayanEstevezC/YomaContable-)
+
+</div>
+
+## 🌟 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 🎵 Now Playing
+
+[![Spotify](https://novatorem-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER)
+
+## 🤝 Connect with Me
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/BrayanEstevezC?style=social)](https://github.com/BrayanEstevezC)
-[![Portfolio](https://img.shields.io/badge/Portfolio-BrayanEstevez-blue)](https://github.com/BrayanEstevezC/Portfolio)
-
-</div>
-
-## Habilidades Técnicas 💻
-
-<div align="center">
-
-### Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Desarrollo Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Herramientas y Tecnologías
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
-
-## Proyectos Destacados 🌟
-
-<div align="center">
-
-### 🎮 Gaming
-[![MOBWare](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=MOBWare&theme=dark)](https://github.com/BrayanEstevezC/MOBWare)
-[![Batalla Naval](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=Juego-de-Batalla-Naval&theme=dark)](https://github.com/BrayanEstevezC/Juego-de-Batalla-Naval)
-
-### 💼 Empresariales
-[![ERP-AGC](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=ERP-AGC&theme=dark)](https://github.com/BrayanEstevezC/ERP-AGC)
-[![YomaContable](https://github-readme-stats.vercel.app/api/pin/?username=BrayanEstevezC&repo=YomaContable-&theme=dark)](https://github.com/BrayanEstevezC/YomaContable-)
-
-</div>
-
-## Estadísticas 📊
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrayanEstevezC&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/BrayanEstevezC)
-
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=BrayanEstevezC&theme=tokyonight&hide_border=true)](https://github.com/BrayanEstevezC)
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanEstevezC&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/BrayanEstevezC)
-
-</div>
-
-## Contacto 📫
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrayanEstevezC)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
 
@@ -79,8 +128,12 @@
 
 <div align="center">
 
-### 🌟 ¡No olvides dejar una estrella en los repositorios que te gusten! 🌟
+### 🐍 Watch my contribution graph being eaten by a snake
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BrayanEstevezC.BrayanEstevezC)
+![Snake animation](https://github.com/BrayanEstevezC/BrayanEstevezC/blob/output/github-contribution-grid-snake.svg)
+
+### 💖 Thanks for visiting! Leave a ⭐ if you like any of the repositories
+
+![Visitor Count](https://profile-counter.glitch.me/BrayanEstevezC/count.svg)
 
 </div>
