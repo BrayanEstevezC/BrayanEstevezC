@@ -124,6 +124,9 @@ const brayan = {
 <div align="center">
 
 ### 🐍 Watch my contribution graph being eaten by a snake
+<img src="https://raw.githubusercontent.com/BrayanEstevezC/BrayanEstevezC/output/snake.svg" alt="Snake animation" />
+
+###
 
 ![Snake animation](https://github.com/BrayanEstevezC/BrayanEstevezC/blob/output/github-contribution-grid-snake.svg)
 
