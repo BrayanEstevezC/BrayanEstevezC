@@ -128,8 +128,6 @@ const brayan = {
 
 ###
 
-![Snake animation](https://github.com/BrayanEstevezC/BrayanEstevezC/blob/output/github-contribution-grid-snake.svg)
-
 ### 💖 Thanks for visiting! Leave a ⭐ if you like any of the repositories
 
 ![Visitor Count](https://profile-counter.glitch.me/BrayanEstevezC/count.svg)
