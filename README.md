@@ -23,7 +23,7 @@
 
 ```javascript
 const brayan = {
-    code: ["JavaScript", "C#", "PHP", "C++", "HTML", "CSS"],
+    code: ["JavaScript", "C#", "PHP", "HTML", "CSS"],
     technologies: {
         frontEnd: {
             js: ["Angular"],
@@ -50,7 +50,6 @@ const brayan = {
     <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=for-the-badge">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge">
-    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white&style=for-the-badge">
 </p>
 
 ### 🧰 Frameworks and Libraries
