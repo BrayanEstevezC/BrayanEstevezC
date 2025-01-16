@@ -41,7 +41,7 @@ const brayan = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-<img src="https://raw.githubusercontent.com/BrayanEstevezC/BrayanEstevezC/output/snake.svg" alt="Snake animation" />
+
 
 ###
 ## 🛠️ My Favorite Tools
@@ -123,10 +123,6 @@ const brayan = {
 
 <div align="center">
 
-### 🐍 Watch my contribution graph being eaten by a snake
-<img src="https://raw.githubusercontent.com/BrayanEstevezC/BrayanEstevezC/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### 💖 Thanks for visiting! Leave a ⭐ if you like any of the repositories
 
