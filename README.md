@@ -41,7 +41,9 @@ const brayan = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+<img src="https://raw.githubusercontent.com/BrayanEstevezC/BrayanEstevezC/output/snake.svg" alt="Snake animation" />
 
+###
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
